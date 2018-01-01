@@ -1,0 +1,15 @@
+{
+  "name": "vancards",
+  "version": "1.0.1",
+  "description": "一副扑克牌",
+  "main": "card.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "纸牌",
+    "扑克"
+  ],
+  "author": "Van Jeffery",
+  "license": "ISC"
+}
